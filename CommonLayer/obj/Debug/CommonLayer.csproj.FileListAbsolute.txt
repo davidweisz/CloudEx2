@@ -1,0 +1,12 @@
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\obj\Debug\CommonLayer.pdb
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.Web.DistributedCache.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Users\david\Developer\davidweiszex2part1\CommonLayer\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml

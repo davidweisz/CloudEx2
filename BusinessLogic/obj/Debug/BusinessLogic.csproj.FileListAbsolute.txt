@@ -1,0 +1,15 @@
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\CommonLayer.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\CommonLayer.pdb
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Users\david\Developer\davidweiszex2part1\BusinessLogic\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
